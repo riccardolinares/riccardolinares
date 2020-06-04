@@ -15,7 +15,7 @@ I belive in the talent of the people, like me, who don't conform themself to sta
 I am looking for people working on digital projects with an high potential of impact on society. Together we can help you making a project bigger and achieve challenging goals.
 
 ## Values:
- - **Commitment:** you are an entrepreneur of your project. Just do it!
+ - **Commitment:** we are entrepreneur of our project and responsable for getting the job done. Just do it!
  - **Ambition:** our goal is to help millions of people. Dream it bigger!
  - **High quality**: done is better than perfect, but we pay attention to details. Take care of it!
  - **Goal oriented**: we achive the goals everytime. You don't know how to do something? Learn it!
