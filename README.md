@@ -22,6 +22,7 @@ I am looking for people working on digital projects with an high potential of im
  
 ## Quotes:
 *"He who has a why to live for can bear almost any how"* - Friedrich Nietzsche
+
 *"Everyone is a genius. But if you judge a fish on it's ability to climb a tree, it will live its whole life believing it is stupid"* - Albert Einstein
 
 ## Contact me:
