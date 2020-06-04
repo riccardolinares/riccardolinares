@@ -1,7 +1,7 @@
 # Manifesto
 Hello World!
 
-If you are reading this probably I think you are smarter than lots of people and probably you have a great project in your hand. Let me just say that I belive in your work. I would like to talk about it... but first let me tell you a short story.
+If you are reading this, probably I think you are smarter than lots of people and maybe you have a great project in your hand. Let me just say that I belive in your work. I would like to talk about it... but first let me tell you a short story.
 
 ## Origins:
 Once upon a time there was a child not good enough in anything he has done: not good enough at school, not good enough at sports, not good enough (especially) with social relationships. The child was very good in just one thing: development and computer science. 
