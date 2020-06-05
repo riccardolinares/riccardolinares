@@ -4,7 +4,7 @@ Hello World!
 If you are reading this, probably I think you are smarter than lots of people and maybe you have a great project in your hand. Let me just say that I belive in your work. I would like to talk about it... but first let me tell you a short story.
 
 ## Origins:
-Once upon a time there was a child not good enough in anything he has done: not good enough at school, not good enough at sports, not good enough (especially) with social relationships. The child was very good in just one thing: development and computer science. 
+Once upon a time there was a child not good enough in anything he has done: not good enough at school, not good enough at sports, not good enough (specially) in social relationships. The child was very good in just one thing: development and computer science. 
 During the high school the (no more) child  met a guy like him. Together they developed an amazing software which was used by millions of people. Starting from that moment the child relize that he is not alone, he can do great things and he found his way.
 That child is me and in this Manifesto I am trying to write the the purpose of my life.
 
