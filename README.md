@@ -1,12 +1,16 @@
-# Manifesto
-Hello World!
+# Hello World!
 
-If you are reading this, probably you have a great project in your hand. Let me just say that I belive in your work. I would like to talk about it... but first let me tell you a short story.
+If you are reading this, probably you have a great project in your hand. Let me just say that I belive in your work. I would like to talk about it.
 
-## Origins:
-Once upon a time there was a child not good enough in anything he has done: not good enough at school, not good enough at sports, not good enough (specially) in social relationships. The child was very good in just one thing: development and computer science. 
-During the high school the (no more) child  met a guy like him. Together they developed an amazing software which was used by millions of people. Starting from that moment the child relize that he is not alone, he can do great things and he found his way.
-That child is me and in this Manifesto I am trying to write the the purpose of my life.
+## Who I am:
+I am a geek passionate about innovation and business.
+I have been working in the digital world since I was very young.
+My first experience as an entrepreneur was at the age of 16.
+I love working in dynamic teams that set a clear target.
+I believe data analysis is the foundation of a solid project.
+I am a developer as a hobby and an extreme sports lover.
+
+My keywords: innovation, professional growth, healthy lifestyle.
 
 ## Vision:
 I belive in the talent of the people, like me, who don't conform themself to standards, who think out of the box and use the technology to solve problems. Together we want to prove our true value through innovative and digital projects.
