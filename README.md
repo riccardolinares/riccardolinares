@@ -30,6 +30,14 @@ I am looking for people working on digital projects with an high potential of im
 *"Everyone is a genius. But if you judge a fish on it's ability to climb a tree, it will live its whole life believing it is stupid"* - Albert Einstein
 
 ## Contact me:
-Let's talk about your projects: [t.me/riccardolinares](https://t.me/riccardolinares)
+Let's talk: [t.me/riccardolinares](https://t.me/riccardolinares)
+
+
+# 42 Roma Luiss
+
+I am currently attending the 42 Roma Luiss course... Here is how it is going:
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/rlinares?privacyEmail=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+
 
 
