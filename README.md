@@ -37,7 +37,7 @@ Let's talk: [t.me/riccardolinares](https://t.me/riccardolinares)
 
 I am currently attending the 42 Roma Luiss course... Here is how it is going:
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/rlinares?privacyEmail=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![rlinares's 42 stats](https://badge42.vercel.app/api/v2/cl1wdiv5j003009jyjuv835bj/stats?cursusId=21&coalitionId=125)](https://github.com/JaeSeoKim/badge42)
 
 
 
