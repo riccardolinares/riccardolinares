@@ -1,5 +1,10 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.2.6"
+  },
+  "scripts": {
+    "watch": "tailwindcss -i ./global.css -o src/css/style.css --watch",
+    "build": "tailwindcss -o src/css/style.css --minify",
+    "build:html": "node node-html-markdown -i src/index.html -o src/index.md"
   }
 }
