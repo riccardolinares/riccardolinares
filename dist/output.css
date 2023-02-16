@@ -524,6 +524,11 @@ video {
   margin-right: 0.5rem;
 }
 
+.my-4{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .mb-2{
   margin-bottom: 0.5rem;
 }
@@ -538,6 +543,14 @@ video {
 
 .mb-10{
   margin-bottom: 2.5rem;
+}
+
+.mb-1{
+  margin-bottom: 0.25rem;
+}
+
+.ml-6{
+  margin-left: 1.5rem;
 }
 
 .flex{
@@ -576,6 +589,14 @@ video {
   width: 100%;
 }
 
+.list-inside{
+  list-style-position: inside;
+}
+
+.list-disc{
+  list-style-type: disc;
+}
+
 .flex-col{
   flex-direction: column;
 }
@@ -586,6 +607,18 @@ video {
 
 .justify-center{
   justify-content: center;
+}
+
+.space-y-2 > :not([hidden]) ~ :not([hidden]){
+  --tw-space-y-reverse: 0;
+  margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));
+}
+
+.space-y-3 > :not([hidden]) ~ :not([hidden]){
+  --tw-space-y-reverse: 0;
+  margin-top: calc(0.75rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(0.75rem * var(--tw-space-y-reverse));
 }
 
 .object-contain{
@@ -599,6 +632,10 @@ video {
 
 .p-6{
   padding: 1.5rem;
+}
+
+.text-left{
+  text-align: left;
 }
 
 .text-center{
@@ -623,6 +660,11 @@ video {
 .text-xl{
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-2xl{
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .font-bold{
@@ -685,5 +727,15 @@ video {
   .md\:text-lg{
     font-size: 1.125rem;
     line-height: 1.75rem;
+  }
+
+  .md\:text-3xl{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
+  .md\:text-4xl{
+    font-size: 2.25rem;
+    line-height: 2.5rem;
   }
 }
