@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Riccardo Linares - Tech Founder</title>
+  <!-- Include Tailwind CSS from absolute path -->
+  <link href="/dist/output.css" rel="stylesheet">
+  <!-- Include Font Awesome icons from CDN -->
+  <script src="https://kit.fontawesome.com/c5ca31ee6e.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="flex flex-col md:flex-row items-center justify-center h-screen">
+  <!-- Image -->
+  <div id="left-panel" class="w-full md:w-1/2 h-full flex items-center justify-center">
+    <img id="profile-image" src="img/smile.png" alt="Smile" class="object-contain">
+  </div>
+  <!-- Text with social media icons -->
+  <div id="right-panel" class="w-full md:w-1/2 overflow-y-auto max-h-screen p-4 md:p-6" onscroll="changeImage()">
+    <div class="flex flex-col justify-center items-center">
+      <p class="text-lg md:text-2xl font-bold text-center">Hello World!</p>
+      <h1 class="text-3xl md:text-5xl font-bold mb-2">Riccardo Linares</h1>
+      <h2 class="text-xl md:text-2xl font-bold text-gray-500 mb-4">Tech Founder</h2>
+
+      <p class="text-base md:text-lg mb-4">Thank you for visiting my website! More information about me will be added
+        soon. Lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Integer venenatis sapien ut leo efficitur lobortis. Sed quis ligula
+        ac massa bibendum rhoncus non non velit. Morbi eu sapien varius, dignissim purus sit amet, dignissim orci.
+        Aliquam
+        sodales eleifend turpis, a lacinia eros dictum sed. Suspendisse potenti. Curabitur ac turpis tellus. Nulla nec
+        purus auctor, ullamcorper augue quis, ultrices urna. Phasellus in ipsum in nunc varius interdum. In facilisis
+        enim
+        vel nulla varius tempus. Praesent rhoncus ultricies sapien, in aliquet tellus volutpat vel. Nulla bibendum
+        tellus
+        vel pharetra blandit. Donec id tincidunt nulla. Donec in pharetra nibh, sit amet dignissim lacus. Donec
+        dignissim
+        bibendum faucibus. Duis feugiat, magna ac euismod tristique, eros eros tempor dolor, eget aliquam eros orci eu
+        ex.
+      </p>
+      <div class="flex justify-center items-center mb-4 md:mb-6">
+        <a href="mailto:linares.riccardo@gmail.com" target="_blank" class="text-gray-500 hover:text-gray-600 mx-2"><i
+            class="fas fa-envelope fa-2x"></i></a>
+        <a href="https://www.linkedin.com/in/riccardolinares" target="_blank"
+          class="text-gray-500 hover:text-gray-600 mx-2"><i class="fab fa-linkedin fa-2x"></i></a>
+        <a href="https://github.com/riccardolinares" target="_blank" class="text-gray-500 hover:text-gray-600 mx-2"><i
+            class="fab fa-github fa-2x"></i></a>
+        <a href="https://twitter.com/riccardolinares" target="_blank" class="text-gray-500 hover:text-gray-600 mx-2"><i
+            class="fab fa-twitter fa-2x"></i></a>
+      </div>
+    </div>
+
+  </div>
+  <script>
+    function changeImage() {
+      var scrollTop = document.querySelector('#right-panel').scrollTop;
+      var image = document.querySelector('#profile-image');
+      if (scrollTop > 0) {
+        image.src = 'img/working.png';
+      } else {
+        image.src = 'img/smile.png';
+      }
+    }
+  </script>
+</body>
+
+</html>
