@@ -21,8 +21,9 @@
     <div class="flex flex-col justify-center text-center md:text-left">
       <p class="text-lg md:text-2xl font-bold text-center">Hello World!</p>
       <h1 class="text-2xl md:text-4xl font-bold mb-2 text-center">I'm Riccardo Linares 👋</h1>
-      <h2 class="text-xl md:text-2xl font-bold text-gray-500 mb-4 text-center">Tech Founder</h2>
-      <p class="text-base md:text-lg mb-4">I love working on indie projects with high potential for impact.</p>
+      <h2 class="text-lg md:text-2xl font-bold text-gray-500 mb-4 text-center">Tech Founder</h2>
+      <p class="text-base md:text-lg mb-4">I love working on indie projects with high potential for impact <a
+          href="/projects" class="text-base">&#8594 <span class="underline">Discover more</span></a></p>
 
       <div class="text-left mb-10 text-base md:text-lg">
         <p class="font-bold mb-2">Something about me:</p>
@@ -80,9 +81,13 @@
   </div>
   <script>
     function changeImage() {
-      var scrollTop = document.querySelector('#right-panel').scrollTop;
+      var panel = document.querySelector('#right-panel');
+      var scrollTop = panel.scrollTop;
       var image = document.querySelector('#profile-image');
-      if (scrollTop > 0) {
+
+      if (scrollTop / panel.scrollHeight > 0 && scrollTop / panel.scrollHeight < 0.33) {
+        image.src = 'img/hello.png';
+      } else if (scrollTop / panel.scrollHeight > 0.33 && scrollTop / panel.scrollHeight < 0.66) {
         image.src = 'img/working.png';
       } else {
         image.src = 'img/smile.png';
