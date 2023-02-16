@@ -1,42 +1,94 @@
-  Riccardo Linares - Tech Founder  
+<!DOCTYPE html>
+<html lang="en">
 
-![Smile](img/smile.png)
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Riccardo Linares - Tech Founder</title>
+  <!-- Include Tailwind CSS from absolute path -->
+  <link href="css/style.css" rel="stylesheet">
+  <!-- Include Font Awesome icons from CDN -->
+  <script src="https://kit.fontawesome.com/c5ca31ee6e.js" crossorigin="anonymous"></script>
+</head>
 
-Hello World!
+<body class="flex flex-col md:flex-row items-center justify-center h-full">
+  <!-- Image -->
+  <div id="left-panel" class="w-full md:w-1/2 h-full max-h-screen flex items-center justify-center">
+    <img id="profile-image" src="img/smile.png" alt="Smile" class="object-contain max-h-52 md:max-h-96">
+  </div>
+  <!-- Text with social media icons -->
+  <div id="right-panel" class="w-full md:w-1/2 md:overflow-y-auto max-h-screen p-6 md:p-10" onscroll="changeImage()">
+    <div class="flex flex-col justify-center text-center md:text-left">
+      <p class="text-lg md:text-2xl font-bold text-center">Hello World!</p>
+      <h1 class="text-2xl md:text-4xl font-bold mb-2 text-center">I'm Riccardo Linares 👋</h1>
+      <h2 class="text-xl md:text-2xl font-bold text-gray-500 mb-4 text-center">Tech Founder</h2>
+      <p class="text-base md:text-lg mb-4">I love working on indie projects with high potential for impact.</p>
 
-I'm Riccardo Linares 👋
-=======================
+      <div class="text-left mb-10 text-base md:text-lg">
+        <p class="font-bold mb-2">Something about me:</p>
+        <ul class="list-disc list-inside space-y-3">
+          <li>I was born on a rainy Saturday in July 1994, not exactly a typical summer evening.</li>
+          <li>From an early age I studied different programming languages because I wanted to be a badass
+            hacker.</li>
+          <li>In 2011 I co-founded my first company that allowed people to personalize Facebook. +4M users.
+            Great experience! 🚀</li>
+          <li>Around the age of 18, I realized I wanted to build my professional career on digital and
+            innovation.</li>
+          <li>I wrote about technology and innovation for Tweaknology. Through this experience I met my
+            future partners!</li>
+          <li>Since 2015 I managed for two years the communication of IngDan Italia, an Italian spin-off of
+            the multinational Cogobuy focused on IoT 🤖.</li>
+          <li>Since February 2017 I have been working with Campus Party. Goals achieved:</li>
+          <ul class="list-disc list-inside ml-6">
+            <li>✔️ #CPIT1 (2017)</li>
+            <li>✔️ #CPIT2 (2018)</li>
+            <li>✔️ #CPIT3 (2019)</li>
+            <li>✔️ #CP Digital Edition (2020-21)</li>
+          </ul>
+          <li>Together with my partners, in 2017, I started studying Blockchain technology and investing in
+            Cryptocurrencies. A few months later, also thanks to a Business Angel, DoubleBit was born. #Training
+            #Mining
+            #Blockchain ⛏️</li>
+          <li>In 2019 I founded IDK.business with the goal of developing bootstrapping services, raising
+            capital and bringing value to companies.</li>
+          <li>Today, I work on digital processes and developing innovative products that can create a
+            positive impact on thousands of people.</li>
+          <li>I am often told that I dream too big, each time I reply that it is never enough!</li>
+          <li>I love extreme sports: 🧗🏄✈️(🏓)</li>
+          <li>3 books I recommend reading:
+            <ul class="list-disc list-inside ml-6">
+              <li>E-Myth (Michael E. Gerber)</li>
+              <li>Shoe Dog (Phil Knight)</li>
+              <li>Zero to One (Peter Thiel)</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
 
-Tech Founder
-------------
+      <div class="flex justify-center items-center mb-4 md:mb-6">
+        <a href="mailto:linares.riccardo@gmail.com" target="_blank" class="text-gray-500 hover:text-gray-600 mx-2"><i
+            class="fas fa-envelope fa-2x"></i></a>
+        <a href="https://www.linkedin.com/in/riccardolinares" target="_blank"
+          class="text-gray-500 hover:text-gray-600 mx-2"><i class="fab fa-linkedin fa-2x"></i></a>
+        <a href="https://github.com/riccardolinares" target="_blank" class="text-gray-500 hover:text-gray-600 mx-2"><i
+            class="fab fa-github fa-2x"></i></a>
+        <a href="https://twitter.com/riccardolinares" target="_blank" class="text-gray-500 hover:text-gray-600 mx-2"><i
+            class="fab fa-twitter fa-2x"></i></a>
+      </div>
+    </div>
 
-I love working on indie projects with high potential for impact.
+  </div>
+  <script>
+    function changeImage() {
+      var scrollTop = document.querySelector('#right-panel').scrollTop;
+      var image = document.querySelector('#profile-image');
+      if (scrollTop > 0) {
+        image.src = 'img/working.png';
+      } else {
+        image.src = 'img/smile.png';
+      }
+    }
+  </script>
+</body>
 
-Something about me:
-
-*   I was born on a rainy Saturday in July 1994, not exactly a typical summer evening.
-*   From an early age I studied different programming languages because I wanted to be a badass hacker.
-*   In 2011 I co-founded my first company that allowed people to personalize Facebook. +4M users. Great experience! 🚀
-*   Around the age of 18, I realized I wanted to build my professional career on digital and innovation.
-*   I wrote about technology and innovation for Tweaknology. Through this experience I met my future partners!
-*   Since 2015 I managed for two years the communication of IngDan Italia, an Italian spin-off of the multinational Cogobuy focused on IoT 🤖.
-*   Since February 2017 I have been working with Campus Party. Goals achieved:
-
-*   ✔️ #CPIT1 (2017)
-*   ✔️ #CPIT2 (2018)
-*   ✔️ #CPIT3 (2019)
-*   ✔️ #CP Digital Edition (2020-21)
-
-*   Together with my partners, in 2017, I started studying Blockchain technology and investing in Cryptocurrencies. A few months later, also thanks to a Business Angel, DoubleBit was born. #Training #Mining #Blockchain ⛏️
-*   In 2019 I founded IDK.business with the goal of developing bootstrapping services, raising capital and bringing value to companies.
-*   Today, I work on digital processes and developing innovative products that can create a positive impact on thousands of people.
-*   I am often told that I dream too big, each time I reply that it is never enough!
-*   I love extreme sports: 🧗🏄✈️(🏓)
-*   3 books I recommend reading:
-    *   E-Myth (Michael E. Gerber)
-    *   Shoe Dog (Phil Knight)
-    *   Zero to One (Peter Thiel)
-
-[](mailto:linares.riccardo@gmail.com)[](https://www.linkedin.com/in/riccardolinares)[](https://github.com/riccardolinares)[](https://twitter.com/riccardolinares)
-
-function changeImage() { var scrollTop = document.querySelector('#right-panel').scrollTop; var image = document.querySelector('#profile-image'); if (scrollTop > 0) { image.src = 'img/working.png'; } else { image.src = 'img/smile.png'; } }
+</html>
