@@ -1,5 +1,11 @@
 # Hello World!
 
+<!-- https://img.shields.io/badge/Status-Working-green -->
+
+[![Status](https://img.shields.io/badge/Status-Working-green)](https://riccardolinares.me)
+[![Website](https://img.shields.io/badge/Website-riccardolinares.me-blue)](https://riccardolinares.me)
+[![GitHub](https://img.shields.io/badge/GitHub-riccardolinares-lightgrey)](https://github.com/riccardolinares)
+
 I love working on indie projects with high potential for impact [→ Discover more](https://riccardolinares.me/projects/)
 
 ## Who I am:
@@ -36,10 +42,8 @@ _"Everyone is a genius. But if you judge a fish on it's ability to climb a tree,
 
 ## Contact me:
 
-Let's talk: [t.me/riccardolinares](https://t.me/riccardolinares)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/riccardolinares)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardolinares/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/riccardolinares)
 
-# 42 Roma Luiss
-
-I am currently attending the 42 Roma Luiss course... Here is how it is going:
-
-[![rlinares's 42 stats](https://badge42.vercel.app/api/v2/cl1wdiv5j003009jyjuv835bj/stats?cursusId=21&coalitionId=125)](https://github.com/JaeSeoKim/badge42)
+[![GitHub followers](https://img.shields.io/github/followers/riccardolinares?style=social)](https://github.com/riccardolinares)
