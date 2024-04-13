@@ -1,4 +1,6 @@
-# <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/hi.gif" width="35" /> Hello World! I'm [Riccardo Linares](https://www.github.com/riccardolinares) <p  align="right" style="float:right;"><img src="https://visitor-badge.laobi.icu/badge?page_id=riccardolinares" alt="visitor badge"/></p>
+# <div style="float:left"><img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/hi.gif" width="35" /> Hello World! I'm [Riccardo Linares](https://www.github.com/riccardolinares) </div><div  align="right" style="float:right;"><img src="https://visitor-badge.laobi.icu/badge?page_id=riccardolinares" alt="visitor badge"/></div>
+
+<div style="float:clear"></div>
 
 I love working on indie projects with high potential for impact.
 
