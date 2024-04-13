@@ -15,13 +15,12 @@ My keywords: innovation, professional growth, healthy lifestyle.
 
 I love working on indie projects with high potential for impact.
 
-[![My story](https://img.shields.io/badge/Website-riccardolinares.me-blue)](https://riccardolinares.me/)
 [![Projects](https://img.shields.io/badge/Projects-riccardolinares.me-blue)](https://riccardolinares.me/projects)
 [![GitHub](https://img.shields.io/badge/GitHub-riccardolinares-lightgrey)](https://github.com/riccardolinares)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolinares&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolinares&layout=compact&theme=transparent&hide_progress=true)
 
-![Riccardo Linares' GitHub stats](https://github-readme-stats-git-master-riccardolinares-projects.vercel.app/api?username=riccardolinares)
+![Riccardo Linares' GitHub stats](https://github-readme-stats-git-master-riccardolinares-projects.vercel.app/api?username=riccardolinares&show_icons=true&theme=transparent)
 
 ## Contact me:
 
