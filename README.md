@@ -11,6 +11,8 @@ I love working on indie projects with high potential for impact.
 [![Website Badge](https://img.shields.io/badge/-riccardolinares-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=https://riccardolinares.me)](https://riccardolinares.me)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=riccardolinares" alt="visitor badge"/>
 
+<br />
+
 ### <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/hello.png" width="35" /> About me:
 
 I am a geek passionate about innovation and business.
@@ -22,6 +24,7 @@ I am a developer as a hobby and an extreme sports lover. (🏓)
 
 My keywords: innovation, professional growth, healthy lifestyle.
 
+<br />
 
 ### <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/working.png" width="35" /> Languages and Tools:
 
