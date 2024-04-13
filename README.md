@@ -2,6 +2,8 @@
 
 I love working on indie projects with high potential for impact.
 
+<br/>
+
 [![GitHub followers](https://img.shields.io/github/followers/riccardolinares?style=social)](https://www.github.com/riccardolinares)
 [![Twitter Follow](https://img.shields.io/twitter/follow/riccardolinares?style=social)](https://www.twitter.com/riccardolinares)
 [![Linkedin Badge](https://img.shields.io/badge/-riccardolinares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardolinares/)](https://www.linkedin.com/in/riccardolinares/)
@@ -20,8 +22,6 @@ I am a developer as a hobby and an extreme sports lover. (🏓)
 
 My keywords: innovation, professional growth, healthy lifestyle.
 
-<!-- ### <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/hands.png" width="35" /> Projects: -->
-
 
 ### <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/working.png" width="35" /> Languages and Tools:
 
@@ -35,6 +35,6 @@ My keywords: innovation, professional growth, healthy lifestyle.
 
 ### <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/angel.png" width="35" /> Github Stats:
 
-<img height=200 align="center" src="https://github-readme-stats-git-master-riccardolinares-projects.vercel.app/api?username=riccardolinares" />&nbsp;&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riccardolinares&layout=compact&langs_count=8&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats-git-master-riccardolinares-projects.vercel.app/api?username=riccardolinares&theme=transparent" />&nbsp;&nbsp;<img height=200 align="center" src="https://github-readme-stats-git-master-riccardolinares-projects.vercel.app/api/top-langs?username=riccardolinares&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 
 
