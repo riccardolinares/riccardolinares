@@ -1,4 +1,4 @@
-# 👋 Hello World! <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/hi.gif" width="35" />
+# Hello World! <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/hi.gif" width="35" />
 
 ## Who I am:
 
@@ -20,6 +20,8 @@ I love working on indie projects with high potential for impact.
 [![GitHub](https://img.shields.io/badge/GitHub-riccardolinares-lightgrey)](https://github.com/riccardolinares)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolinares&layout=compact)
+
+![Riccardo Linares' GitHub stats](https://github-readme-stats-riccardolinares-projects.vercel.app/api?username=riccardolinares)
 
 ## Contact me:
 
