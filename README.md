@@ -21,7 +21,7 @@ I love working on indie projects with high potential for impact.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardolinares&layout=compact)
 
-![Riccardo Linares' GitHub stats](https://github-readme-stats-riccardolinares-projects.vercel.app/api?username=riccardolinares)
+![Riccardo Linares' GitHub stats](https://github-readme-stats-git-master-riccardolinares-projects.vercel.app/api?username=riccardolinares)
 
 ## Contact me:
 
