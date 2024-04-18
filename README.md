@@ -9,7 +9,6 @@ I love working on indie projects with high potential for impact.
 [![Linkedin Badge](https://img.shields.io/badge/-riccardolinares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardolinares/)](https://www.linkedin.com/in/riccardolinares/)
 [![Telegram Badge](https://img.shields.io/badge/-riccardolinares-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/riccardolinares)](https://t.me/riccardolinares)
 [![Website Badge](https://img.shields.io/badge/-riccardolinares-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=https://riccardolinares.me)](https://riccardolinares.me)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=riccardolinares" alt="visitor badge"/>
 
 
 ### <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/hello.png" width="35" /> About me:
