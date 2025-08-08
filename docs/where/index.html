@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Where I Am - Riccardo Linares</title>
+
+  <!-- Meta tags -->
+  <meta name="description" content="Interactive map showing where I am and my movements.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://riccardolinares.me/where/">
+  <meta property="og:title" content="Riccardo Linares - Where I Am">
+  <meta property="og:description" content="Interactive map showing where I am and my movements.">
+  <meta property="og:image" content="https://riccardolinares.me/img/hello.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://riccardolinares.me/where/">
+  <meta name="twitter:title" content="Riccardo Linares - Where I Am">
+  <meta name="twitter:description" content="Interactive map showing where I am and my movements.">
+  <meta name="twitter:image" content="https://riccardolinares.me/img/hello.png">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="../img/working.png" />
+
+  <!-- Include Tailwind CSS from absolute path -->
+  <link href="../css/style.css" rel="stylesheet">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-sA+e0kUFdtm8lSMZ1Yg7n1JAwvK1pugs+kmHGXIY7wY=" crossorigin="" />
+</head>
+
+<body class="flex flex-col h-screen">
+  <div id="map" class="flex-1"></div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-pvQaJ4pyjEGwvIiVbGiWFylZ8erMMBwF75R51xgXm34=" crossorigin=""></script>
+  <script>
+    var map = L.map('map').setView([0, 0], 2);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    var path = L.polyline([], { color: 'blue' }).addTo(map);
+    var marker;
+
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(function (pos) {
+        var lat = pos.coords.latitude;
+        var lng = pos.coords.longitude;
+        marker = L.marker([lat, lng]).addTo(map);
+        path.addLatLng([lat, lng]);
+        map.setView([lat, lng], 13);
+      });
+
+      navigator.geolocation.watchPosition(function (pos) {
+        var lat = pos.coords.latitude;
+        var lng = pos.coords.longitude;
+        if (marker) {
+          marker.setLatLng([lat, lng]);
+        } else {
+          marker = L.marker([lat, lng]).addTo(map);
+        }
+        path.addLatLng([lat, lng]);
+        map.setView([lat, lng], map.getZoom());
+      });
+    } else {
+      alert('Geolocation is not supported by your browser.');
+    }
+  </script>
+</body>
+
+</html>
