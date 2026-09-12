@@ -1,26 +1,11 @@
 ## <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/hi.gif" width="35" /> Hello World! I'm [Riccardo Linares](https://www.github.com/riccardolinares)
 
-I love working on indie projects with high potential for impact.
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/riccardolinares?style=social)](https://www.github.com/riccardolinares)
-[![Twitter Follow](https://img.shields.io/twitter/follow/riccardolinares?style=social)](https://www.twitter.com/riccardolinares)
-[![Linkedin Badge](https://img.shields.io/badge/-riccardolinares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riccardolinares/)](https://www.linkedin.com/in/riccardolinares/)
-[![Telegram Badge](https://img.shields.io/badge/-riccardolinares-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/riccardolinares)](https://t.me/riccardolinares)
-[![Website Badge](https://img.shields.io/badge/-riccardolinares-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=https://riccardolinares.me)](https://riccardolinares.me)
-
 
 ### <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/hello.png" width="35" /> About me:
 
-I am a geek passionate about innovation and business.
-I have been working in the digital world since I was very young.
-My first experience as an entrepreneur was at the age of 16.
-I love working in dynamic teams that set a clear target.
-I believe data analysis is the foundation of a solid project.
-I am a developer as a hobby and an extreme sports lover. (🏓)
+I've built several tech projects. Most have failed, some have done well. In the past, I co-founded a startup that reached +4 million users. I'm currently building AccessiBit as CTO and co-founder.
 
-My keywords: innovation, professional growth, healthy lifestyle.
+I play tennis, develop in Next.js and love to cook.
 
 
 ### <img src="https://github.com/riccardolinares/riccardolinares/blob/master/docs/img/working.png" width="35" /> Languages and Tools:
